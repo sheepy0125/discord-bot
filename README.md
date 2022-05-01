@@ -2,4 +2,4 @@
 
 A basic Discord bot made in Rust. It has amazing features like:
 
--   nothing
+-   Respond with "Pong!" when one types "!ping"
